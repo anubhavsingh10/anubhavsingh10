@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Deep Learning or Web Scraping Stuff
 - 💬 Ask me about Programming and Music
 
+<img src="https://github-readme-stats.vercel.app/api?username=anubhavsingh10">
 

@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ### Current Favourite Song 👇👇👇  
 
-[![My Current favourite Song](https://img.youtube.com/vi/E5QGl2v5YSE/0.jpg)](https://www.youtube.com/watch?v=E5QGl2v5YSE "My Current favourite Song")
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=E5QGl2v5YSE)](https://www.youtube.com/watch?v=E5QGl2v5YSE "Everything Is AWESOME")
